@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ![Panduka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandukaNandara&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandukaNandara&layout=compact&bg_color=black)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandukaNandara&layout=compact&bg_color=black)](https://github.com/PandukaNandara)
 
