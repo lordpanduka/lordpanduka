@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=PandukaNandara)
+
+![Panduka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandukaNandara&show_icons=true&theme=radical)
