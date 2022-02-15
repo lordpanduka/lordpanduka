@@ -11,7 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=PandukaNandara)
 
-![Panduka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandukaNandara&show_icons=true&theme=radical&count_private=true)
+![Panduka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandukaNandara&show_icons=true&theme=radical&count_private=true?)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandukaNandara&layout=compact&bg_color=black&count_private=true)](https://github.com/PandukaNandara)
 
