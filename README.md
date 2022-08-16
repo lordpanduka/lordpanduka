@@ -9,7 +9,7 @@
 <a href="https://medium.com/pandukanandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pandukanandara" height="30" width="40" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=PandukaNandara)
+![](https://komarev.com/ghpvc/?username=PandukaNandara&style=flat-square)
 
 ![Panduka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandukaNandara&show_icons=true&theme=radical&count_private=true?)
 
