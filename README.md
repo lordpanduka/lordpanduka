@@ -8,7 +8,7 @@
 <a href="https://stackoverflow.com/users/8996780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8996780" height="30" width="40" /></a>
 <a href="https://medium.com/pandukanandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pandukanandara" height="30" width="40" /></a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PandukaNandara&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=PandukaNandara&theme=dark)(https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=PandukaNandara&style=for-the-badge)
 
