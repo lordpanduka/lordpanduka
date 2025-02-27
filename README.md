@@ -9,7 +9,7 @@
 <a href="https://medium.com/pandukanandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pandukanandara" height="30" width="40" /></a>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=PandukaNandara&theme=dark)
+[![Panduka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8996780)](https://stackoverflow.com/users/8996780/panduka-nandara)
 
 <br>
 
