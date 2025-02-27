@@ -14,6 +14,7 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=PandukaNandara&style=for-the-badge)
+<br>
 <img src="https://widgetbite.com/stats/ce56b415-bb2f-418c-9645-246a3e6a4bb7" alt="watching_count" />
 
 ![Panduka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandukaNandara&show_icons=true&theme=radical&count_private=true?)
