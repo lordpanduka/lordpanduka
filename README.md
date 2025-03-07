@@ -17,9 +17,9 @@
 <br>
 <img src="https://widgetbite.com/stats/ce56b415-bb2f-418c-9645-246a3e6a4bb7" alt="watching_count" />
 
-![Panduka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandukaNandara&show_icons=true&theme=radical&count_private=true?)
+![Panduka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordpanduka&show_icons=true&theme=radical&count_private=true?)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandukaNandara&layout=compact&bg_color=black&count_private=true)](https://github.com/PandukaNandara)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordpanduka&layout=compact&bg_color=black&count_private=true)](https://github.com/PandukaNandara)
 <!-- 
 <h3>Latest Videos ▶</h3>
 
